@@ -1,1 +1,2 @@
-# Fun-With-Objects
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
