@@ -6,7 +6,7 @@ class Box {
       density:2 
     };
 
-    this.body = Bodies.rectangle(x,y,50,50,body_options); 
+    this.body = Bodies.rectangle(x,y,150,50,body_options); 
     this.width = 150; 
     this.height = 40; 
     World.add(world,this.body); 
